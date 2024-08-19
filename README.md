@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://lh3.googleusercontent.com/d/1VAvngCKBRBwBTrfI8rV6BoTafu0JuO6V=s1080?authuser=0" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://lh3.googleusercontent.com/d/19oFbvPD4acR2GTOBeE6uBdKr6FU6nD4D=s1080?authuser=0" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am a Junior web developer from Argentina.
