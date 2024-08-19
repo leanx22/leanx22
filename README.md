@@ -8,9 +8,7 @@ I am a Junior web developer from Argentina.
 ---
 
 ### Tech & Languages i have used
-<img src="http://img.shields.io/badge/-PHP%20-9534eb?style=flat&logo=PHP&logoColor=white">
-<img src="http://img.shields.io/badge/-Laravel%20-d43a26?style=flat&logo=Laravel&logoColor=white">
-<img src="http://img.shields.io/badge/-Slim Framework%20-b1d426?style=flat">
+<img src="http://img.shields.io/badge/-PHP%20-9534eb?style=flat&logo=PHP&logoColor=white"> <img src="http://img.shields.io/badge/-Laravel%20-d43a26?style=flat&logo=Laravel&logoColor=white"> <img src="http://img.shields.io/badge/-Slim Framework%20-b1d426?style=flat">
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
 <img src = "https://img.shields.io/badge/-CSS-1572B6?style=flat">
